@@ -1,0 +1,13 @@
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\obj\Debug\netcoreapp3.1\clase_11.csprojAssemblyReference.cache
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\obj\Debug\netcoreapp3.1\clase_11.AssemblyInfoInputs.cache
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\obj\Debug\netcoreapp3.1\clase_11.AssemblyInfo.cs
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\obj\Debug\netcoreapp3.1\clase_11.csproj.CoreCompileInputs.cache
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\bin\Debug\netcoreapp3.1\clase_11.exe
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\bin\Debug\netcoreapp3.1\clase_11.deps.json
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\bin\Debug\netcoreapp3.1\clase_11.runtimeconfig.json
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\bin\Debug\netcoreapp3.1\clase_11.runtimeconfig.dev.json
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\bin\Debug\netcoreapp3.1\clase_11.dll
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\bin\Debug\netcoreapp3.1\clase_11.pdb
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\obj\Debug\netcoreapp3.1\clase_11.dll
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\obj\Debug\netcoreapp3.1\clase_11.pdb
+C:\Users\Juan Bautista\utn\ejemplos\clase_11\obj\Debug\netcoreapp3.1\clase_11.genruntimeconfig.cache
